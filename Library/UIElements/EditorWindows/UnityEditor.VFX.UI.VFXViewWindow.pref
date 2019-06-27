@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__VFXView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__VFXView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{"position":{"x":911.0,"y":1328.0,"z":0.0},"scale":{"x":0.8695651888847351,"y":0.8695651888847351,"z":1.0}}'
+  - '{"m_Version":21,"m_SelectedElementsArray":["63282b53-a606-4e0d-b032-de5d1f3427ba","f47f0745-4e63-4717-9254-3d3eabf7f7be","4e98a50f-7759-4b93-864e-fb443ca71759","d03514b4-2e5f-405c-9794-bf37030d4f6a","NodeID-29454","53eada1e-1be5-41b1-a2d1-7ff779c0983c","NodeID-29414","NodeID-29410","d582cf4f-d1f2-4049-86ee-f172f9f3f451","ae0c33ac-2282-42e4-8d55-60854470fbd7","NodeID-29442","NodeID-29476","NodeID-29444","09d825dc-5531-41b2-a702-942e85963ee3","3751d563-4455-4ee3-96c0-2676f280ac4e","b4e20836-cd98-4b20-9276-4cae29fb636b","9559f142-2d5f-4440-9fd1-b5653bb27ebc","30b3f9b6-d5aa-40ff-b274-9224e459ecaa","484a82e6-3f51-4330-9429-b6da597ba826","1d40dd91-bf7a-4389-b45a-d6c7cabda7eb"]}'
